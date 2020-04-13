@@ -28,7 +28,7 @@ v0.1 :
 ## Todos 
 
 - [ ] Bypass IOS 12.3/13.2.3
-- [ ] Import/Inject iCloud Account
+- [ ] Add Silver mac support
 
 ### Credit
 
