@@ -1,6 +1,13 @@
 # SimplePassCodeBypass
 A Simple Passcode Bypass for iDevice lock 
 
+### Download Latest 
+
+Releases | Link
+---------|-----
+With Putty Support | [Here](https://github.com/Nazky/SimplePassCodeBypass/releases/latest/download/SimplePassCodeBypass-PV.zip)
+With OpenSSh Support | [Here](https://github.com/Nazky/SimplePassCodeBypass/releases/latest/download/SimplePassCodeBypass.zip)
+
 ## Dependencies
 
 Software | Link
@@ -25,7 +32,7 @@ v0.1 :
 
 ### Credit
 
-- Passcode Bypass @appletech752
+- Passcode Bypass by @appletech752
 
 - Created by @NazkyYT
 
