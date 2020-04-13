@@ -29,6 +29,7 @@ v0.1 :
 
 - [ ] Bypass IOS 12.3/13.2.3
 - [ ] Add Silver mac support
+- [ ] Make Passcode Bypass Untetherd
 
 ### Credit
 
