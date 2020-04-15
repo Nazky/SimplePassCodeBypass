@@ -30,14 +30,16 @@ If Putty not work use openssh | [Installation](https://docs.microsoft.com/fr-fr/
 
 ### Change Log 
 
-v0.1 :
+v0.2 :
 
 - [x] Bypass IOS 13.x
+- [x] Bypass IOS 12.3/13.2.3
+- [x] Add Silver mac support
+- [x] Auto Bypass IOS 13.x
+- [x] Auto Bypass IOS 12.3/13.2.3
 
 ## Todos 
 
-- [ ] Bypass IOS 12.3/13.2.3
-- [ ] Add Silver mac support
 - [ ] Make Passcode Bypass Untetherd
 
 ### Credit
